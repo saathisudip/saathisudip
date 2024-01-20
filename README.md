@@ -6,7 +6,7 @@
 Passionate about machine learning, deep learning, and statistical modeling. With proficiency in Python, R, SQL, and various statistical technologies, I leverage data analytics to drive strategic decision-making and solve complex business problems. Looking to apply my expertise in an innovative and challenging role.
 
 ## Education 📚
-
+ 
 ## Areas of Expertise 🧠
 
 ## Academic and Professional Experience 💼
