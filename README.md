@@ -1,9 +1,18 @@
 # Hi there 👋 I am Sudip! Welcome to My GitHub Profile! 🚀
 
-# Machine Learning Engineer 🤖 | Data Scientist 🧠 | Software Developer 💻
+# Machine Learning Engineer 🤖 | Data Scientist 🧠 | Data Engineer 💻
+
+I am passionate about machine learning, deep learning, statistical modeling, and cloud technologies. With proficiency in Python, R, SQL, and various statistical technologies, I leverage data analytics to drive strategic decision-making and solve complex business problems. Looking to apply my expertise in an innovative and challenging role.
 
 ## 📝 PROFILE SUMMARY
-Passionate about machine learning, deep learning, and statistical modeling. With proficiency in Python, R, SQL, and various statistical technologies, I leverage data analytics to drive strategic decision-making and solve complex business problems. Looking to apply my expertise in an innovative and challenging role.
+
+Dynamic Data Scientist and Data Engineer with extensive experience in leveraging advanced data analytics, machine learning, and cloud
+technologies to drive strategic business decisions. Proficient in a wide array of programming languages, big data frameworks, and cloud
+platforms. Demonstrated expertise in developing scalable data solutions, predictive models, and insightful visualizations. Proven ability to
+translate complex datasets into actionable insights, fostering evidence-based decision-making across diverse industries. Seeking a challenging 
+role where to utilize advanced analytics, machine learning, and cloud computing expertise
+to solve complex business problems. Eager to contribute to innovative projects that leverage deep technical skills and cross-functional
+collaboration experience, aiming to drive significant business impact through data-driven strategies and solutions.
 
 ## Education 📚
  
